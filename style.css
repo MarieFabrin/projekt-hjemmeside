@@ -1,0 +1,11 @@
+.footer {
+    display: flex;
+    padding: 40px 80px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.some img {
+    width: 75px;
+    height: 75px;
+}
