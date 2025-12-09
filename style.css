@@ -1,3 +1,36 @@
+/*universal*/
+:root {
+    --black: #1C262A;
+    --darkblue: #264048;
+    --lightblue: #68a3b6;
+    --darkorange: #CA6F00;
+    --lightorange: #FFA20D;
+    --white: #FFF7ED;
+    --grey: #344044;
+}
+
+h1 {
+    font-size: 64px;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 52px;
+    font-weight: 500;
+}
+
+h3 {
+    font-size: 48px;
+    font-weight: 700;
+}
+
+p {
+    font-size: 28px;
+    font-weight: 500;
+}
+
+/*footer*/
+
 .footer {
     display: flex;
     padding: 40px 80px;
