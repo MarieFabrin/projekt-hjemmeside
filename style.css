@@ -1,3 +1,38 @@
+body{
+    background-color: black;
+}
+header{
+    height: 190px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    height: 190px;
+
+}
+
+#logo{
+    height: 100px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
 .footer {
     display: flex;
     padding: 40px 80px;
